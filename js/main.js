@@ -186,7 +186,7 @@ PlayState.preload = function () {
     this.game.load.image('key', 'images/key.png');
     this.game.load.spritesheet('coin', 'images/coin_animated.png', 22, 22);
     this.game.load.spritesheet('spider', 'images/spider.png', 50, 45);
-    this.game.load.spritesheet('hero', 'images/hero.png', 65.3, 90);
+    this.game.load.spritesheet('hero', 'images/hero.png', 64.7, 90);
     this.game.load.spritesheet('door', 'images/door.png', 42, 66);
     this.game.load.spritesheet('icon:key', 'images/key_icon.png', 34, 30);
 
